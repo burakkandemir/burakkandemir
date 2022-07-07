@@ -2,7 +2,7 @@
 
 ### I am listening at Spotify🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=99s17gy1rncop3alc1s0toixo&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=99s17gy1rncop3alc1s0toixo&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ruqceefbxd3kpf266dn2ehsb4e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### My Discord Profile
 
@@ -12,19 +12,18 @@
 
 <h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">My Accounts</h3>
 <p align="center">
-<a href="https://discord.com/users/952200956802658324" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://github.com/Iryq" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/banexdd/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://www.instagram.com/made.xl/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://discord.com/users/950426401297805324" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/burakkandemir" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/salvatore053/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 
 
-- 🔭 I’m working on **Application Form**
+- 🔭 I’m working on **JavaScript**
 
-- 🌱 I’m learning **German and French for my study**
+- 🌱 I’m learning **JavaScript**
 
-- 💬 Ask me about **PHP and HTML**
+- 💬 Ask me about **PHP,CSS,HTML**
 
-- 📫 How to reach me **contact@ardaunen.com.tr**
+- 📫 How to reach me **burakkandemiryt@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
